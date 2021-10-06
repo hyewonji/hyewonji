@@ -20,4 +20,6 @@
     <br>
   <img src="https://img.shields.io/badge/GraphQL-DE33A6?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=ApolloGraphQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+
 </p
